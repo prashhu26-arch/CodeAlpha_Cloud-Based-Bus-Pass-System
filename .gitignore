@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Node
+node_modules/
+npm-debug.log
+
+# Environment variables
+.env
+
+# Secrets
+js/firebase-config.js
